@@ -1,0 +1,5 @@
+[15-Jan-2018 10:07:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home2/escapeac/public_html/phpform/index.php on line 3
+[15-Jan-2018 10:07:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/escapeac/public_html/phpform/index.php on line 2
+[15-Jan-2018 10:34:01 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/escapeac/public_html/phpform/cheating.php on line 82
+[15-Jan-2018 10:27:09 America/Denver] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home2/escapeac/public_html/phpform/index.php on line 53
+[15-Jan-2018 11:06:14 America/Denver] PHP Parse error:  syntax error, unexpected 'courdheadman' (T_STRING) in /home2/escapeac/public_html/phpform/forms.php on line 79
